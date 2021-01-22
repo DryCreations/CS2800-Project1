@@ -1,0 +1,15 @@
+section {
+  column-count: 3;
+  column-width: 200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+nav a[href="client.html"] {
+  color: #F0F0F0;
+  font-weight: normal;
+  
+  pointer-events: none;
+}
